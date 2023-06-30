@@ -42,7 +42,7 @@ export const categoryList = [
   export const dataList = [
     {
       id: 1,
-      title: 'lounge resort',
+      title: 'Lounge Resort',
       serviceTime: '45-60min',
       deliveryFee: 3.44,
       category: 'place',
@@ -53,7 +53,7 @@ export const categoryList = [
     },
     {
       id: 2,
-      title: 'door urban',
+      title: 'Door Urban',
       serviceTime: '15-20min',
       deliveryFee: 4.94,
       category: 'place',
@@ -64,7 +64,7 @@ export const categoryList = [
     },
     {
       id: 3,
-      title: 'chow',
+      title: 'Chow',
       serviceTime: '30-22min',
       deliveryFee: 4.94,
       category: 'place',
@@ -75,7 +75,7 @@ export const categoryList = [
     },
     {
       id: 4,
-      title: 'wharf seafood',
+      title: 'Wharf Seafood',
       serviceTime: '10-18min',
       deliveryFee: 2.14,
       category: 'place',
@@ -97,7 +97,7 @@ export const categoryList = [
     },
     {
       id: 6,
-      title: 'stories noodles',
+      title: 'Stories Noodles',
       serviceTime: '5-15min',
       deliveryFee: 2.87,
       category: 'place',
@@ -108,7 +108,7 @@ export const categoryList = [
     },
     {
       id: 7,
-      title: 'Nacho cheeseburger',
+      title: 'Nacho Cheeseburger',
       serviceTime: '50-65min',
       deliveryFee: 8.5,
       category: 'dish',
